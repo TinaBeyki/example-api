@@ -1,0 +1,6 @@
+common\Product.class
+common\ProductController.class
+common\ProductService.class
+common\Product$ProductBuilder.class
+common\MainApp.class
+common\ProductRepository.class
